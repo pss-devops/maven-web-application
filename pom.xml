@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Pss Releases Nexus Repository</name>
-	      <url>http://65.0.124.177:8247/pavankumar/repository/amazon-release/</url>
+	      <url>http://13.232.148.135:8247/pavankumar/repository/Bigbasket-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Pss Snapshot Nexus Repository </name>
-	      <url>http://65.0.124.177:8247/pavankumar/repository/amazon-snapshot/</url>
+	      <url>http://13.232.148.135:8247/pavankumar/repository/Bigbasket-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
