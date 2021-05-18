@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Royyalu Biryani Thinadaniki idhulu...copylu thagethadhi</h1>
-<h1 align="center"> Biryani Thindaniki Salupaa Thinu  pichi amma </h1>
+<h1 align="center">DADI SOFTWARE SOLUTIONS</h1>
+<h1 align="center"> One of the top fortune 10 company </h1>
 <hr>
 <div style="text-align: center;">
 	<span>
