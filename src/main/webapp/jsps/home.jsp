@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">DADI SOFTWARE SOLUTIONS</h1>
+<h1 align="center">BHANU LAXMI SOFTWARE SOLUTIONS</h1>
 <h1 align="center"> One of the top fortune 10 company </h1>
 <hr>
 <div style="text-align: center;">
