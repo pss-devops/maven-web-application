@@ -17,7 +17,7 @@
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Dadi Software Solutions, 
+		BhanuLaxmi Software Solutions, 
 		Martha Halli,
 		Bangalore,
 		+91-8247325536,
