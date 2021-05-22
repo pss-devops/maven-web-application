@@ -17,12 +17,13 @@ stage('SonarReport')
 {
 sh "${path}/bin/mvn sonar:sonar"
 }
-
+/*
 stage('ArtifactsStore')
 {
 sh "${path}/bin/mvn deploy"
 }
-
+*/
+  
 stage('UploadToTomcat')
 {
 sshagent(['3eccec92-2bab-4680-8686-121a06d96be0']) {
