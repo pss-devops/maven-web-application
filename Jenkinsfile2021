@@ -7,11 +7,11 @@ agent any
     maven 'maven3.8.1'
   }
 
-  triggers
+ /* triggers
   {
      pollSCM('* * * * *')
   }
-
+ */
   stages
    {
 
